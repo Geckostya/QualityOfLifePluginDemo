@@ -1,0 +1,3 @@
+[submodule "Plugins/QualityOfLifePlugin"]
+	path = Plugins/QualityOfLifePlugin
+	url = https://github.com/Geckostya/QualityOfLifePlugin.git
